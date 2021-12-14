@@ -5,7 +5,7 @@ git clone https://github.com/AndyMac54/VPSSetup.git
 
 ## TO DO ##
 1 - Confirm Naham Tools 
-2 - Create User Account
+2 - Create User Account and make script run as sudo
 3 - Colours!
 4 - Add any extra Tools
 5 - Research backups and installation
