@@ -1,3 +1,10 @@
 Setup a New VPS for Bug Bounty Hunting
 
-git clone https://github.com/AndyMac54/VPSSetup/blob/main/setup.sh
+git clone https://github.com/AndyMac54/VPSSetup.git
+
+
+## TO DO ##
+1 - Confirm Naham Tools 
+2 - Create User
+3 - Add any extra Tools
+4 - Research backups and installation
