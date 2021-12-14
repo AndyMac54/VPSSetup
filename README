@@ -8,3 +8,4 @@ git clone https://github.com/AndyMac54/VPSSetup.git
 2 - Create User
 3 - Add any extra Tools
 4 - Research backups and installation
+5 - Create additional installation file that pulls above file, then carries out chmod+x, executes and deletes
